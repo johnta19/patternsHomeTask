@@ -4,9 +4,9 @@ import com.Alevel.Decorator.LargeBuilding;
 import com.Alevel.Decorator.SmallBuilding;
 import com.Alevel.Decorator.StandardBuilding;
 import com.Alevel.Factory.*;
-import com.Alevel.Singleton.PersonCreator;
-import com.Alevel.Singleton.PersonCreatorDirector;
-import com.Alevel.Singleton.PersonCreatorImpl;
+import com.Alevel.Builder.PersonCreator;
+import com.Alevel.Builder.PersonCreatorDirector;
+import com.Alevel.Builder.PersonCreatorImpl;
 import com.Alevel.Singleton.Singleton;
 
 public class Main {

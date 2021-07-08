@@ -1,4 +1,4 @@
-package com.Alevel.Singleton;
+package com.Alevel.Builder;
 
 public interface PersonCreator {
     Person create();
