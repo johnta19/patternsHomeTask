@@ -1,4 +1,4 @@
-package com.Alevel.Factory;
+package com.Alevel.Patterns.Factory;
 
 public abstract class Creator {
     public abstract PhoneCreator factoryCreator();

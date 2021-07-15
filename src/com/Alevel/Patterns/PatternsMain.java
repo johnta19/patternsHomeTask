@@ -1,15 +1,15 @@
-package com.Alevel;
+package com.Alevel.Patterns;
 
-import com.Alevel.Decorator.LargeBuilding;
-import com.Alevel.Decorator.SmallBuilding;
-import com.Alevel.Decorator.StandardBuilding;
-import com.Alevel.Factory.*;
-import com.Alevel.Builder.PersonCreator;
-import com.Alevel.Builder.PersonCreatorDirector;
-import com.Alevel.Builder.PersonCreatorImpl;
-import com.Alevel.Singleton.Singleton;
+import com.Alevel.Patterns.Decorator.LargeBuilding;
+import com.Alevel.Patterns.Decorator.SmallBuilding;
+import com.Alevel.Patterns.Decorator.StandardBuilding;
+import com.Alevel.Patterns.Factory.*;
+import com.Alevel.Patterns.Builder.PersonCreator;
+import com.Alevel.Patterns.Builder.PersonCreatorDirector;
+import com.Alevel.Patterns.Builder.PersonCreatorImpl;
+import com.Alevel.Patterns.Singleton.Singleton;
 
-public class Main {
+public class PatternsMain {
 
     public static void main(String[] args) {
         //Singleton

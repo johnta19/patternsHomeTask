@@ -1,4 +1,4 @@
-package com.Alevel.Factory;
+package com.Alevel.Patterns.Factory;
 
 public class Iphone implements PhoneCreator {
     @Override

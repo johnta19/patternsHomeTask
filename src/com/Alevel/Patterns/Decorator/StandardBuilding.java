@@ -1,4 +1,4 @@
-package com.Alevel.Decorator;
+package com.Alevel.Patterns.Decorator;
 
 public class StandardBuilding implements Building {
     int numFloors = 5;
