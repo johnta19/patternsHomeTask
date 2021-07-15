@@ -1,4 +1,4 @@
-package com.Alevel.Builder;
+package com.Alevel.Patterns.Builder;
 
 public class Person {
     private String firstname;

@@ -1,4 +1,4 @@
-package com.Alevel.Decorator;
+package com.Alevel.Patterns.Decorator;
 
 public class LargeBuilding implements Building{
     private Building building;

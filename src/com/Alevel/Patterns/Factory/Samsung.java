@@ -1,4 +1,4 @@
-package com.Alevel.Factory;
+package com.Alevel.Patterns.Factory;
 
 public class Samsung implements PhoneCreator {
     @Override

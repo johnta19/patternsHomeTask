@@ -1,4 +1,4 @@
-package com.Alevel.Singleton;
+package com.Alevel.Patterns.Singleton;
 
 public final class Singleton {
     private static Singleton instance;
